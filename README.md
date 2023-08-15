@@ -3,14 +3,14 @@
 # SQL Project Music_Store_Analysis
 SQL project to analyze online music store data
 
-## Database and Tools
+# Database and Tools
 * Postgre SQL
 * PgAdmin4
 
 Schema- Music Store Database  
 ![Screenshot (171)](https://github.com/KingKaP1/Projects/assets/106966007/5dccfecb-e3ba-4f3f-b63f-a8bbd2141c59)
 
-## Excel Projects
+# Excel Projects
 # A few Dashboards made by me using MS-Excel.
 ![Screenshot (176)](https://github.com/KingKaP1/Projects/assets/106966007/b97516f3-4455-4705-92dd-c1ec8396ba2a)
 
