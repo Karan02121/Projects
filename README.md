@@ -8,4 +8,4 @@ SQL project to analyze online music store data
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![Screenshot (171)](https://github.com/KingKaP1/Projects/assets/106966007/5dccfecb-e3ba-4f3f-b63f-a8bbd2141c59)
