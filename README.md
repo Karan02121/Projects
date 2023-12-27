@@ -1,7 +1,9 @@
 # Projects
 
-# SQL Project Music_Store_Analysis
+# SQL Project Music_Store_Analysis 
 SQL project to analyze online music store data
+# Airline DB 
+SQL project to analyze Airline DB
 
 # Database and Tools
 * Postgre SQL
@@ -9,6 +11,9 @@ SQL project to analyze online music store data
 
 Schema- Music Store Database  
 ![Screenshot (171)](https://github.com/KingKaP1/Projects/assets/106966007/5dccfecb-e3ba-4f3f-b63f-a8bbd2141c59)
+Schema- Airline DB
+![image](https://github.com/KingKaP1/Projects/assets/106966007/9dbb17aa-ba55-4f9c-a6e9-a65180a48e2e)
+
 
 # Excel Projects
 # A few Dashboards made by me using MS-Excel.
