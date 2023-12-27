@@ -11,7 +11,9 @@ SQL project to analyze Airline DB
 
 Schema- Music Store Database  
 ![Screenshot (171)](https://github.com/KingKaP1/Projects/assets/106966007/5dccfecb-e3ba-4f3f-b63f-a8bbd2141c59)
-Schema- Airline DB
+
+Schema-Airline DB
+
 ![image](https://github.com/KingKaP1/Projects/assets/106966007/9dbb17aa-ba55-4f9c-a6e9-a65180a48e2e)
 
 
